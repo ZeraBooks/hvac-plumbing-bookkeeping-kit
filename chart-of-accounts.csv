@@ -1,0 +1,37 @@
+Number,Name,Type,Detail,Notes
+1010,Operating checking,Asset,Bank,Customer payments and financing payouts land here
+1100,Accounts receivable,Asset,Receivable,Invoices sent and not yet paid
+1110,Financing payouts receivable,Asset,Receivable,Optional. Financed jobs finished but not yet paid by the lending partner
+1200,Truck stock,Asset,Inventory,Parts bought and still on the vans. Count it at month end
+1210,Warehouse stock,Asset,Inventory,Optional. Equipment and parts held at the shop
+1500,Vehicles,Asset,Fixed asset,"Owned vans and trucks, at cost"
+1510,Tools and equipment,Asset,Fixed asset,"Recovery machines, jetters, cameras"
+1590,Accumulated depreciation,Asset,Fixed asset,Contra account; carries a credit balance
+2010,Accounts payable,Liability,Payable,Supply house invoices not yet paid. Tie to each supply house statement
+2100,Customer deposits,Liability,Current liability,Deposits on jobs not yet done. Becomes revenue when the job is finished and invoiced
+2110,Deferred maintenance revenue,Liability,Current liability,Maintenance plan money not yet earned
+2200,Sales tax payable,Liability,Current liability,Tax collected where parts or labor are taxable. Rules differ by state and province
+2300,Payroll liabilities,Liability,Current liability,"Withholdings and employer taxes, from the payroll report"
+2400,Business credit card,Liability,Credit card,"The payment from checking is a transfer, not an expense"
+2500,Vehicle loans,Liability,Long-term liability,Split each payment between this line and interest expense
+3010,Owner capital,Equity,Owner equity,
+3020,Owner draws,Equity,Owner equity,
+3900,Retained earnings,Equity,Owner equity,
+4010,Service and repair revenue,Income,Revenue,"Service calls, diagnostics, repairs"
+4020,Installation revenue,Income,Revenue,"Equipment replacements and new installs, at full price even when financed"
+4030,Maintenance agreement revenue,Income,Revenue,The part of each plan earned this month
+5010,Materials and equipment,Cost of goods sold,Cost of sales,Parts and units used on jobs
+5020,Technician wages,Cost of goods sold,Cost of sales,"Field labor, from the payroll report"
+5030,Callbacks and warranty work,Cost of goods sold,Cost of sales,Parts and labor on returns with no new invoice
+5040,Permits,Cost of goods sold,Cost of sales,Job permits and inspections
+6010,Office wages,Expense,Payroll,"Dispatch, office and sales staff"
+6020,Payroll taxes,Expense,Payroll,Employer share from the payroll report
+6100,Financing fees,Expense,Operating expense,Dealer fees taken by lending partners
+6200,Merchant fees,Expense,Operating expense,Card processor fees
+6300,Vehicle expense,Expense,Operating expense,"Fuel, leases, repairs, insurance on the vans"
+6400,Field service software,Expense,Operating expense,
+6500,Rent,Expense,Occupancy,Shop and warehouse
+6600,Insurance,Expense,Operating expense,General liability and workers' compensation
+6700,Advertising,Expense,Operating expense,
+6800,Depreciation,Expense,Operating expense,
+6900,Interest expense,Expense,Other expense,Interest part of vehicle loan payments

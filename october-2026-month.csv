@@ -1,0 +1,11 @@
+Line,Amount,Account,In profit
+Service and repair invoices paid,41300.00,Service and repair revenue,Yes
+"Water heater install, financed, full price",12000.00,Installation revenue,Yes
+Dealer fee taken by the lending partner,-960.00,Financing fees,Yes
+"30 maintenance plans sold at 240.00, earned this month",600.00,Maintenance agreement revenue,Yes
+"30 maintenance plans sold at 240.00, not yet earned",6600.00,Deferred maintenance revenue,No
+Deposit for a November furnace install,6000.00,Customer deposits,No
+Parts and equipment used on jobs,-18450.00,Materials and equipment,Yes
+"Technician payroll, gross",-16900.00,Technician wages,Yes
+Employer payroll taxes,-1292.85,Payroll taxes,Yes
+Van fuel and leases,-3140.00,Vehicle expense,Yes

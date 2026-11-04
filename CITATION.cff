@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "HVAC and plumbing bookkeeping kit"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/hvac-plumbing-bookkeeping-kit"
+repository-code: "https://github.com/ZeraBooks/hvac-plumbing-bookkeeping-kit"
+license: CC-BY-4.0
+abstract: "Bookkeeping for an HVAC or plumbing company separates service calls from installs, holds maintenance agreements and install deposits as money owed until the work is done, books financed jobs at full price with the dealer fee as a cost, and tracks parts on the trucks. This kit has the accounts, a checklist, a plan schedule and a worked month."
+keywords:
+  - bookkeeping
+  - hvac
+  - plumbing
+  - trades
+  - chart-of-accounts
+  - accounting
+  - deferred-revenue
+date-released: 2026-11-04
