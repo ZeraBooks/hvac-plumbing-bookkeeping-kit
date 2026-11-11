@@ -82,7 +82,7 @@ months look terrible and others too good.
 
 ## Learn more
 
-Full guide: [Bookkeeping for HVAC and plumbing companies](https://www.zerabooks.com/bookkeeping-for-hvac-and-plumbing). Related: [ZeraBooks bookkeeping services](https://www.zerabooks.com/bookkeeping-services).
+Full guide: [Bookkeeping for HVAC and plumbing companies](https://www.zerabooks.com/bookkeeping-for-hvac-and-plumbing). Related: [ZeraBooks](https://www.zerabooks.com/), accounting software that does your books for you, with free setup and a free catch-up of your past months.
 
 ## License
 
